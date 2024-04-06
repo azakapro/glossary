@@ -16,7 +16,6 @@ header {
     text-align: center; /* This ensures the text within the header is centered */
 }
 
-
 header h1 {
     margin: 0;
     text-align: center; /* Center the text within the h1 */
@@ -82,4 +81,25 @@ main {
 .term {
     margin-bottom: 10px;
     padding: 10px 0;
+}
+
+/* New styles for the letter-section */
+.letter-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Adjust this value to increase or decrease the space */
+}
+
+.letter-section h2:first-child {
+    margin-right: 20px; /* Adds space to the right of the first h2 */
+}
+
+.letter-section h2:first-child {
+    padding-right: 20px; /* Adds space to the right of the first h2 */
+}
+
+.letter-section h2 {
+    font-weight: bold; /* Makes the headers bold */
+    margin-bottom: 10px; /* Adds space below the headers */
 }

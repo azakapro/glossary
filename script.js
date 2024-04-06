@@ -39,6 +39,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const uzbekTermsDiv = document.createElement('div');
         englishTermsDiv.textContent = 'English';
         uzbekTermsDiv.textContent = 'Uzbek';
+        // Add margin to the uzbekTermsDiv to create space between the columns
+        uzbekTermsDiv.style.marginLeft = '20px'; // Adjust the value as needed
         glossaryContainer.appendChild(englishTermsDiv);
         glossaryContainer.appendChild(uzbekTermsDiv);
 
