@@ -11,12 +11,15 @@ header {
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center; /* This centers the content horizontally */
+    align-items: center; /* This centers the content vertically */
+    text-align: center; /* This ensures the text within the header is centered */
 }
+
 
 header h1 {
     margin: 0;
+    text-align: center; /* Center the text within the h1 */
 }
 
 nav ul {
@@ -36,6 +39,23 @@ aside {
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+aside a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+aside a:hover {
+    background-color: #ddd;
 }
 
 main {
