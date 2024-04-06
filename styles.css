@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#alphabet {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#alphabet a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #000;
+}
+
+.glossary {
+    margin: 20px;
+}
+
+.term {
+    margin-bottom: 5px;
+}

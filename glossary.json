@@ -1,0 +1,100 @@
+{
+    "A": [
+      {"english": "Algorithm", "uzbek": "Algoritm"}
+    ],
+    "B": [
+      {"english": "Business Analytics", "uzbek": "Biznes Tahliloti / Biznes Analitikasi"}
+    ],
+    "C": [
+      {"english": "Computing Power", "uzbek": "Hisoblash Kuchi"},
+      {"english": "Computer Vision", "uzbek": "Kompyuter Ko’rishi"},
+      {"english": "Convolutional Neural Network", "uzbek": "Birlashtirish Neyron Tarmog’i"},
+      {"english": "Classification", "uzbek": "Tasniflash"}
+    ],
+    "D": [
+      {"english": "Data", "uzbek": "Ma’lumot"},
+      {"english": "Database", "uzbek": "Ma’lumotlar Bazasi"},
+      {"english": "Dataset", "uzbek": "Ma’lumotlar To’plami"},
+      {"english": "Data Analysis", "uzbek": "Ma’lumot Tahlili"},
+      {"english": "Data Analytics", "uzbek": "Ma’lumot Tahliloti / Ma’lumot Analitikasi"},
+      {"english": "Data Generation", "uzbek": "Ma’lumot Yasash"},
+      {"english": "Data Mining", "uzbek": "Ma’lumot Qazish / Ma’lumot Mayning"}
+    ],
+    "F": [
+      {"english": "Fine-tuning", "uzbek": "Sozlash"}
+    ],
+    "G": [
+      {"english": "Ground Truth", "uzbek": "Asli To’g’ri Natija / Asl Haqiqat"}
+    ],
+    "H": [
+      {"english": "Hyperparameter", "uzbek": "Giperparametr"}
+    ],
+    "I": [
+      {"english": "Information", "uzbek": "Axborot"},
+      {"english": "Information Systems", "uzbek": "Axborot Tizimlari"},
+      {"english": "Instance Segmentation", "uzbek": "Yakkalikda Ajratish"},
+      {"english": "Image Recognition", "uzbek": "Rasmni Tanish"},
+      {"english": "Language Model", "uzbek": "Til Modeli"}
+    ],
+    "L": [
+      {"english": "Large Language Model", "uzbek": "Katta Til Modeli"},
+      {"english": "Loss", "uzbek": "Yo’qotish"},
+      {"english": "Learning", "uzbek": "O’rganish"}
+    ],
+    "M": [
+      {"english": "Machine Learning", "uzbek": "Mashina O’rganishi"},
+      {"english": "Machine Translation", "uzbek": "Mashina Tarjimasi"},
+      {"english": "Metrics", "uzbek": "Metrika / Ko’rsatkich"}
+    ],
+    "N": [
+      {"english": "Natural Language Processing", "uzbek": "Tabiiy Tilga Ishlov Berish"},
+      {"english": "Neural Network", "uzbek": "Neyron Tarmog’i"},
+      {"english": "Network", "uzbek": "Tarmoq"}
+    ],
+    "O": [
+      {"english": "Object Detection", "uzbek": "Obyektni Aniqlash"},
+      {"english": "Object Recognition", "uzbek": "Obyektni Tanish"},
+      {"english": "Open Source", "uzbek": "Ochiq Manba"}
+    ],
+    "P": [
+      {"english": "Pattern", "uzbek": "NA"},
+      {"english": "Pattern Recognition", "uzbek": "NA Tanish"},
+      {"english": "Parameter", "uzbek": "Parametr"},
+      {"english": "Prediction", "uzbek": "Taxmin / Bashorat"},
+      {"english": "Predictive Analysis", "uzbek": "Bashoratli Tahlil"},
+      {"english": "Pre-Processing", "uzbek": "Oldingi Ishlov Berish"},
+      {"english": "Pre-training", "uzbek": "Oldingi Shug’ullantirish"},
+      {"english": "Prompt", "uzbek": "So’ralma"}
+    ],
+    "Q": [
+      {"english": "Quantum Computing", "uzbek": "Kvant Hisoblash"}
+    ],
+    "R": [
+      {"english": "Regression", "uzbek": "Regressiya"},
+      {"english": "Reinforcement Learning", "uzbek": "Kuchaytirishli O’rganish"}
+    ],
+    "S": [
+      {"english": "Semantic Segmentation", "uzbek": "Sematik (ma’noviy) Ajratish"},
+      {"english": "Segmentation", "uzbek": "Ajratish"},
+      {"english": "Speech Recognition", "uzbek": "Nutqni Tanish"},
+      {"english": "Structured Data", "uzbek": "Strukturali Ma’lumot"},
+      {"english": "Supervised Learning", "uzbek": "Nazoratli O’rganish"},
+      {"english": "System", "uzbek": "Tizim"},
+      {"english": "Statistics", "uzbek": "Statistika"}
+    ],
+    "T": [
+      {"english": "Testing", "uzbek": "Tekshirish"},
+      {"english": "Training", "uzbek": "Shug’ullantirish"},
+      {"english": "Transfer Learning", "uzbek": "O’rganishni O’tkazish"},
+      {"english": "Transformer", "uzbek": "Transformer"},
+      {"english": "Turing Test", "uzbek": "Turing Testi / Turing Tekshiruvi"}
+    ],
+    "U": [
+      {"english": "Unsupervised Learning", "uzbek": "Nazoratsiz O’rganish"},
+      {"english": "Unstructured Data", "uzbek": "Strukturasiz Ma’lumot"}
+    ],
+    "V": [
+      {"english": "Validation", "uzbek": "Tasdiqlash"},
+      {"english": "Vision Transformer", "uzbek": "Ko’rish Transformeri"}
+    ]
+  }
