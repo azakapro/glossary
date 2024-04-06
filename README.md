@@ -48,9 +48,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@azakapro](https://t.me/azakapro) - blank email
+Azizullo Temirov - [@azakapro](https://t.me/azakapro) - blank email
 
-Project Link: [https://github.com/azakapro/glossary](https://github.com/azakapro/glossary)
+Project Link: [Glossary](https://github.com/azakapro/glossary)
 
 
 
